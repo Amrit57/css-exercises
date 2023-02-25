@@ -1,0 +1,20 @@
+.light-pink-bg{
+    background:rgb(255, 182, 193);
+    font-family: 'Shantell Sans', sans-serif;
+}
+
+#blue-text{
+    color: rgb(59, 59, 235);
+    font-size: 36px;
+    font-family: Verdana,  sans-serif;
+}
+.big-f-size{
+    font-size: 24px;
+}
+#green-bg-bold{
+    font-weight: bold;
+    font-family: Verdana,  sans-serif;
+    background-color: rgb(70, 231, 70);
+
+
+}

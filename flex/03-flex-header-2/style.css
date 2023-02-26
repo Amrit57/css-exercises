@@ -2,6 +2,7 @@
 you'll learn about it later. */
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400;1,900&display=swap');
 
+
 body {
   margin: 0;
   background: #eee;
@@ -35,6 +36,7 @@ button {
   background: rebeccapurple;
   color: white;
   padding: 8px 24px;
+  box-sizing: border-box;
 }
 
 a {
@@ -45,4 +47,23 @@ a {
 
 ul {
   list-style-type: none;
+}
+.header{
+  display: flex;
+  padding: 8px;
+  justify-content: space-between;
+  align-items: center;
+  
+}
+ul{
+  display: flex;
+  margin: 0;
+  padding: 0;
+  gap: 16px;
+}
+.right-section,
+.left-section{
+  display: flex;
+  gap: 16px;
+  align-items: center;
 }

@@ -25,7 +25,11 @@
 }
 
 .sidebar {
+<<<<<<< HEAD
   background-color: #ff7755;
+=======
+  background-color: #C50208;
+>>>>>>> 320c1642b67d0c93e45b190224c666ff84ce4195
 }
 
 .sidebar .photo {
@@ -44,7 +48,11 @@
 }
 
 .nav {
+<<<<<<< HEAD
   background-color: #ff7755;
+=======
+  background-color: #C50208;
+>>>>>>> 320c1642b67d0c93e45b190224c666ff84ce4195
 }
 
 .nav ul li {
@@ -87,6 +95,7 @@
 .footer p {
   font-size: 13px;
   font-weight: normal;
+<<<<<<< HEAD
 }
 .container {
   display: grid;
@@ -142,3 +151,6 @@
 .footer {
   grid-column: 1/3;
 }
+=======
+}
+>>>>>>> 320c1642b67d0c93e45b190224c666ff84ce4195

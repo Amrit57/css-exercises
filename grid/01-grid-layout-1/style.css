@@ -25,6 +25,7 @@ html {
 }
 
 .header {
+<<<<<<< HEAD
   grid-column: 1 /span 2;
   background-color: #ffde22;
 }
@@ -42,6 +43,25 @@ html {
 .article {
   grid-column: 2/span 1;
   background-color: #bccbde;
+=======
+  background-color: #006157;
+}
+
+.sidebar {
+  background-color: #005B94;
+}
+
+.nav {
+  background-color: #642cde;
+}
+
+.article {
+  background-color: #7E1DC3;
+}
+
+.footer {
+  background-color: #393f4d;
+>>>>>>> 320c1642b67d0c93e45b190224c666ff84ce4195
 }
 
 .article p {
@@ -49,9 +69,13 @@ html {
   font-family: sans-serif;
   color: white;
   text-align: left;
+<<<<<<< HEAD
 }
 
 .footer {
   grid-column: 1/ span 2;
   background-color: #393f4d;
 }
+=======
+}
+>>>>>>> 320c1642b67d0c93e45b190224c666ff84ce4195
